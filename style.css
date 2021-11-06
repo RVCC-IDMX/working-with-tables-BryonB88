@@ -1,3 +1,25 @@
 body {
   background-color: aliceblue;
 }
+
+th {
+  background-color: lightgray;
+}
+
+caption {
+  caption-side: bottom;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+.tg {
+  background-image: url(/working-with-tables-BryonB88/img/nikolai-chernichenko-djtable.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+td {
+  color: white;
+}
+
